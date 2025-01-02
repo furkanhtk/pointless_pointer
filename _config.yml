@@ -22,8 +22,8 @@ title: Pointless Pointer
 email: furkanhtk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal blog. I write about my experiences, thoughts and ideas.
-baseurl: "/blog" 
-url: "https://furkanhtk.github.io/pointless_pointer/"
+baseurl: "/pointless_pointer" # the subpath of your site, e.g. /blog
+url: "https://furkanhtk.github.io"
 twitter_username: furkanhtk
 github_username:  furkanhtk
 
